@@ -17,6 +17,7 @@ namespace Code.Infrastructure.Installers
     {
         public override void InstallBindings()
         {
+            UnityEngine.Debug.Log("asdasd");
             BindContext();
             BindCameraProvider();
             BindGameplayServices();
@@ -124,7 +125,7 @@ namespace Code.Infrastructure.Installers
             
             Container
                 .Resolve<ISceneLoader>()
-                .LoadScene("");
+                .LoadScene("Gameplay");
         }
     }
 }
