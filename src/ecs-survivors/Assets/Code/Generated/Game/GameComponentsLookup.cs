@@ -8,15 +8,33 @@
 //------------------------------------------------------------------------------
 public static class GameComponentsLookup {
 
+    public const int Id = 0;
+    public const int WorldPosition = 1;
+    public const int Direction = 2;
+    public const int Moving = 3;
+    public const int Speed = 4;
+    public const int AxisInput = 5;
+    public const int Input = 6;
 
-
-    public const int TotalComponents = 0;
+    public const int TotalComponents = 7;
 
     public static readonly string[] componentNames = {
-
+        "Id",
+        "WorldPosition",
+        "Direction",
+        "Moving",
+        "Speed",
+        "AxisInput",
+        "Input"
     };
 
     public static readonly System.Type[] componentTypes = {
-
+        typeof(Code.Gameplay.Common.Id),
+        typeof(Code.Gameplay.Common.WorldPosition),
+        typeof(Code.Gameplay.Features.Movement.Direction),
+        typeof(Code.Gameplay.Features.Movement.Moving),
+        typeof(Code.Gameplay.Features.Movement.Speed),
+        typeof(Code.Gameplay.Input.AxisInput),
+        typeof(Code.Gameplay.Input.Input)
     };
 }
