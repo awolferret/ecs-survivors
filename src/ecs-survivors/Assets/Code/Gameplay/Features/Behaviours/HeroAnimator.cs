@@ -1,7 +1,7 @@
 ﻿using Code.Gameplay.Common.Visuals;
 using UnityEngine;
 
-namespace Code.Gameplay.Features.Hero.Behaviours
+namespace Code.Gameplay.Features.Behaviours
 {
   public class HeroAnimator : MonoBehaviour, IDamageTakenAnimator
   {

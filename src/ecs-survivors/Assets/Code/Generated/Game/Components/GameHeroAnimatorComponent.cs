@@ -34,10 +34,10 @@ public sealed partial class GameMatcher {
 public partial class GameEntity {
 
     public Code.Gameplay.Features.Hero.HeroAnimatorComponent heroAnimator { get { return (Code.Gameplay.Features.Hero.HeroAnimatorComponent)GetComponent(GameComponentsLookup.HeroAnimator); } }
-    public Code.Gameplay.Features.Hero.Behaviours.HeroAnimator HeroAnimator { get { return heroAnimator.Value; } }
+    public Code.Gameplay.Features.Behaviours.HeroAnimator HeroAnimator { get { return heroAnimator.Value; } }
     public bool hasHeroAnimator { get { return HasComponent(GameComponentsLookup.HeroAnimator); } }
 
-    public GameEntity AddHeroAnimator(Code.Gameplay.Features.Hero.Behaviours.HeroAnimator newValue) {
+    public GameEntity AddHeroAnimator(Code.Gameplay.Features.Behaviours.HeroAnimator newValue) {
         var index = GameComponentsLookup.HeroAnimator;
         var component = (Code.Gameplay.Features.Hero.HeroAnimatorComponent)CreateComponent(index, typeof(Code.Gameplay.Features.Hero.HeroAnimatorComponent));
         component.Value = newValue;
@@ -45,7 +45,7 @@ public partial class GameEntity {
         return this;
     }
 
-    public GameEntity ReplaceHeroAnimator(Code.Gameplay.Features.Hero.Behaviours.HeroAnimator newValue) {
+    public GameEntity ReplaceHeroAnimator(Code.Gameplay.Features.Behaviours.HeroAnimator newValue) {
         var index = GameComponentsLookup.HeroAnimator;
         var component = (Code.Gameplay.Features.Hero.HeroAnimatorComponent)CreateComponent(index, typeof(Code.Gameplay.Features.Hero.HeroAnimatorComponent));
         component.Value = newValue;

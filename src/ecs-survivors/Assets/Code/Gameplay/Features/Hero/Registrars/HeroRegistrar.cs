@@ -1,6 +1,6 @@
 ﻿using Code.Common.Entity;
 using Code.Common.Extensions;
-using Code.Gameplay.Features.Hero.Behaviours;
+using Code.Gameplay.Features.Behaviours;
 using UnityEngine;
 
 namespace Code.Gameplay.Features.Hero.Registrars

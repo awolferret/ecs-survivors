@@ -1,4 +1,4 @@
-﻿using Code.Gameplay.Features.Hero.Behaviours;
+﻿using Code.Gameplay.Features.Behaviours;
 using Entitas;
 
 namespace Code.Gameplay.Features.Hero
