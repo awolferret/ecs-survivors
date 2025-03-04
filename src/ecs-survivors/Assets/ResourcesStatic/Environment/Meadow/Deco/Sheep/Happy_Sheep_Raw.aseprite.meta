@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -133,7 +132,7 @@ ScriptedImporter:
       y: 92
       width: 43
       height: 38
-    spriteID: 9fc18d80468c92144b6271e2c9fe053e
+    spriteID: e0112b4cf4adda34998ab1fd7e8568bb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,7 +152,7 @@ ScriptedImporter:
       y: 138
       width: 43
       height: 38
-    spriteID: 7b2de5aa6c003d9499fd2dc2b6a5426f
+    spriteID: 425fb42fd5cc8744e8b4428375e80db0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -173,7 +172,7 @@ ScriptedImporter:
       y: 184
       width: 43
       height: 38
-    spriteID: 7474125ae4937f14ba419b266f9eee05
+    spriteID: 87883d4baa1bfa5459f03fa510b6ecfe
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -193,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 43
       height: 38
-    spriteID: f62a3be60814ca64fb86edbb47957f00
+    spriteID: 214c4ec65e8dc0c4a9d2929f050e148d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -213,7 +212,7 @@ ScriptedImporter:
       y: 142
       width: 43
       height: 37
-    spriteID: 3ac2472a951f1d44589239c99e8dcf7c
+    spriteID: 3642740c0226db64881c93b08c353de0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -233,7 +232,7 @@ ScriptedImporter:
       y: 4
       width: 46
       height: 36
-    spriteID: b43a6796fc0483549929926524007f70
+    spriteID: b0220a03c31046040bf40c5cfafbc975
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -253,7 +252,7 @@ ScriptedImporter:
       y: 48
       width: 46
       height: 36
-    spriteID: d945e6c05e54a3a418a930c30c897dc7
+    spriteID: 9c9147469e1bf4f40aca8e904e50742f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -273,7 +272,7 @@ ScriptedImporter:
       y: 4
       width: 44
       height: 37
-    spriteID: f2fbbf5709c0463499f08d9d59492a61
+    spriteID: 47fe96f9db2b84543a4fe0572c905b5d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -293,7 +292,7 @@ ScriptedImporter:
       y: 50
       width: 43
       height: 38
-    spriteID: 5ccc3b3413672194f8e84734c169bd0e
+    spriteID: 44e7ae7b81f593f4fa11f0d3869024f2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -313,7 +312,7 @@ ScriptedImporter:
       y: 96
       width: 43
       height: 38
-    spriteID: 17f6698f18295ec4b816dfe0c0233881
+    spriteID: 0443725a06f22c64cbbd24d12df38002
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -333,7 +332,7 @@ ScriptedImporter:
       y: 174
       width: 38
       height: 48
-    spriteID: fee429f3f40009e49a51e97e29958b75
+    spriteID: dd765dfcce8c0a04ba0ca71dcb2442ff
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -353,7 +352,7 @@ ScriptedImporter:
       y: 63
       width: 45
       height: 50
-    spriteID: 7c1c693c12775ae4e954dfaf5f1422dd
+    spriteID: d1c649f15083b6049bf3ae66919862eb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -373,7 +372,7 @@ ScriptedImporter:
       y: 4
       width: 45
       height: 51
-    spriteID: 8f8646bc9b9253b42ba71de26d4a6044
+    spriteID: 469750bab05213b49bf96d1362d8c531
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -393,7 +392,7 @@ ScriptedImporter:
       y: 121
       width: 45
       height: 45
-    spriteID: f5df5c31e133fd348b350caac5e0fa3d
+    spriteID: 393230b5d32672f45899af71a444b2a5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -413,7 +412,7 @@ ScriptedImporter:
       y: 49
       width: 54
       height: 30
-    spriteID: b9a01c306b645a944bb7aacc7b4ec50e
+    spriteID: 4f02ae1a2008fc340ace0be61aaeb665
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -425,147 +424,132 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -478110081
+    guid: -831141133
     name: Happy_Sheep_Raw
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Happy_Sheep_Raw_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 42
         width: 43
         height: 38
-      spriteId: 9fc18d80468c92144b6271e2c9fe053e
-    - name: Frame_1
+      spriteId: e0112b4cf4adda34998ab1fd7e8568bb
+    - name: Happy_Sheep_Raw_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 42
         width: 43
         height: 38
-      spriteId: 7b2de5aa6c003d9499fd2dc2b6a5426f
-    - name: Frame_2
+      spriteId: 425fb42fd5cc8744e8b4428375e80db0
+    - name: Happy_Sheep_Raw_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 42
         width: 43
         height: 38
-      spriteId: 7474125ae4937f14ba419b266f9eee05
-    - name: Frame_3
+      spriteId: 87883d4baa1bfa5459f03fa510b6ecfe
+    - name: Happy_Sheep_Raw_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 42
         width: 43
         height: 38
-      spriteId: f62a3be60814ca64fb86edbb47957f00
-    - name: Frame_4
+      spriteId: 214c4ec65e8dc0c4a9d2929f050e148d
+    - name: Happy_Sheep_Raw_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 42
         width: 43
         height: 37
-      spriteId: 3ac2472a951f1d44589239c99e8dcf7c
-    - name: Frame_5
+      spriteId: 3642740c0226db64881c93b08c353de0
+    - name: Happy_Sheep_Raw_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 42
         width: 46
         height: 36
-      spriteId: b43a6796fc0483549929926524007f70
-    - name: Frame_6
+      spriteId: b0220a03c31046040bf40c5cfafbc975
+    - name: Happy_Sheep_Raw_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 42
         width: 46
         height: 36
-      spriteId: d945e6c05e54a3a418a930c30c897dc7
-    - name: Frame_7
+      spriteId: 9c9147469e1bf4f40aca8e904e50742f
+    - name: Happy_Sheep_Raw_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 42
         width: 44
         height: 37
-      spriteId: f2fbbf5709c0463499f08d9d59492a61
-    - name: Frame_8
+      spriteId: 47fe96f9db2b84543a4fe0572c905b5d
+    - name: Happy_Sheep_Raw_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 42
         width: 43
         height: 38
-      spriteId: 5ccc3b3413672194f8e84734c169bd0e
-    - name: Frame_9
+      spriteId: 44e7ae7b81f593f4fa11f0d3869024f2
+    - name: Happy_Sheep_Raw_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 42
         width: 43
         height: 38
-      spriteId: 17f6698f18295ec4b816dfe0c0233881
-    - name: Frame_10
+      spriteId: 0443725a06f22c64cbbd24d12df38002
+    - name: Happy_Sheep_Raw_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: 45
         y: 42
         width: 38
         height: 48
-      spriteId: fee429f3f40009e49a51e97e29958b75
-    - name: Frame_11
+      spriteId: dd765dfcce8c0a04ba0ca71dcb2442ff
+    - name: Happy_Sheep_Raw_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 42
         width: 45
         height: 50
-      spriteId: 7c1c693c12775ae4e954dfaf5f1422dd
-    - name: Frame_12
+      spriteId: d1c649f15083b6049bf3ae66919862eb
+    - name: Happy_Sheep_Raw_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 42
         width: 45
         height: 51
-      spriteId: 8f8646bc9b9253b42ba71de26d4a6044
-    - name: Frame_13
+      spriteId: 469750bab05213b49bf96d1362d8c531
+    - name: Happy_Sheep_Raw_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 42
         width: 45
         height: 45
-      spriteId: f5df5c31e133fd348b350caac5e0fa3d
-    - name: Frame_14
+      spriteId: 393230b5d32672f45899af71a444b2a5
+    - name: Happy_Sheep_Raw_Frame_14
       frameIndex: 14
-      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 42
         width: 54
         height: 30
-      spriteId: b9a01c306b645a944bb7aacc7b4ec50e
+      spriteId: 4f02ae1a2008fc340ace0be61aaeb665
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -633,4 +617,3 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 128, y: 128}
-  previousTextureSize: {x: 256, y: 256}

@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -133,7 +132,7 @@ ScriptedImporter:
       y: 420
       width: 71
       height: 97
-    spriteID: a0b8f02600f8d34479dbded0817cba8f
+    spriteID: 80e40816d9d4a214e94b2504fd64522a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,7 +152,7 @@ ScriptedImporter:
       y: 809
       width: 77
       height: 97
-    spriteID: 04bba7cdfc0bb2141b4c2f2cf43d2409
+    spriteID: be3f9db6339638440bd0c838da8b7548
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -173,7 +172,7 @@ ScriptedImporter:
       y: 914
       width: 75
       height: 98
-    spriteID: 5d6ddc30ec5f08249b991c277c76cac4
+    spriteID: fd5100221f5722b458693f9ed54d692a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -193,7 +192,7 @@ ScriptedImporter:
       y: 281
       width: 74
       height: 79
-    spriteID: 3cb6aa41304ff6d4eb13c9a453763ebe
+    spriteID: 44eb22d802d0c8c4c92cafa91a954745
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -213,7 +212,7 @@ ScriptedImporter:
       y: 889
       width: 75
       height: 82
-    spriteID: fbf7fc439292ae1479bd17712fbf9385
+    spriteID: 3a13370b60a30a6419bcb3c7701adc13
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -233,7 +232,7 @@ ScriptedImporter:
       y: 4
       width: 74
       height: 83
-    spriteID: 158d5e7a43c8da541a1dcc93854f6242
+    spriteID: 65d92c4710a23674dafc317e45b05b67
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -253,7 +252,7 @@ ScriptedImporter:
       y: 189
       width: 72
       height: 84
-    spriteID: 4c172df16f2aea847b519f9316717959
+    spriteID: 59ddcee2258f0ed468d891fa14cfcbea
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -273,7 +272,7 @@ ScriptedImporter:
       y: 95
       width: 71
       height: 86
-    spriteID: 89754f4f0cd3f4e47907c0fd2362b137
+    spriteID: 926a85aa23f339b4fabd5df2951e7657
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -293,7 +292,7 @@ ScriptedImporter:
       y: 793
       width: 71
       height: 88
-    spriteID: 7d53c323fea1a5c48a5eee1a44d5056e
+    spriteID: de491cd8d3961b5489166b21a2ec979c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -313,7 +312,7 @@ ScriptedImporter:
       y: 696
       width: 71
       height: 89
-    spriteID: a0ef8ce911e4ae44483df51a6ffa1827
+    spriteID: d0b8f5e1c8b96624a95a55823641cbd9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -333,7 +332,7 @@ ScriptedImporter:
       y: 85
       width: 108
       height: 73
-    spriteID: f6c55927424de8047b44c6cb565a672c
+    spriteID: 2d65361627b829c4391e87389d986e5f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -353,7 +352,7 @@ ScriptedImporter:
       y: 725
       width: 99
       height: 76
-    spriteID: 6b2f8309ccb5a1a43ab1a36b31ae0917
+    spriteID: 76d40debac0aaeb42a5847dfc3193701
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -373,7 +372,7 @@ ScriptedImporter:
       y: 166
       width: 105
       height: 73
-    spriteID: 30c9f277c602ad449bbb6703d0eb8d55
+    spriteID: 2211346ec021a314b9e917c0a9cca285
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -393,7 +392,7 @@ ScriptedImporter:
       y: 4
       width: 111
       height: 73
-    spriteID: 49c55097ff336604daad1f9568f07103
+    spriteID: 92529baad359dc945bc434304f1ea281
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -413,7 +412,7 @@ ScriptedImporter:
       y: 641
       width: 100
       height: 76
-    spriteID: 117f01577c942d648b7ea4172c2092e9
+    spriteID: 87381ea3d4f6a364586281b21c87eade
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -433,7 +432,7 @@ ScriptedImporter:
       y: 247
       width: 105
       height: 73
-    spriteID: 4b02baa96fbe511489b1df6bd5a03a3b
+    spriteID: b37f342fd474aaa40a03fac691664791
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -453,7 +452,7 @@ ScriptedImporter:
       y: 537
       width: 80
       height: 96
-    spriteID: 27a627fe90cc4134288ff8c71844f3fe
+    spriteID: d7b578a4ffa8c6647be7fb3eaec3caec
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -473,7 +472,7 @@ ScriptedImporter:
       y: 229
       width: 86
       height: 102
-    spriteID: 4a6764bbfb1ec9b44952b535ef579288
+    spriteID: 5472790a1fcc6ef4793bb87ec19872b4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -493,7 +492,7 @@ ScriptedImporter:
       y: 112
       width: 90
       height: 109
-    spriteID: 0505cdb7920eb284997a8d38076ca896
+    spriteID: 15da18e6a093c4b489e0cd10658f82a1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -513,7 +512,7 @@ ScriptedImporter:
       y: 118
       width: 137
       height: 106
-    spriteID: 93a0fee29d911e749ac5459471c18edf
+    spriteID: e74d835bb17e05a4a83e7a23a5ac7584
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -533,7 +532,7 @@ ScriptedImporter:
       y: 232
       width: 135
       height: 107
-    spriteID: 55e51a64a2f0671459f748cf83ed8196
+    spriteID: 7c0135258e6937748bb57693df4890eb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -553,7 +552,7 @@ ScriptedImporter:
       y: 585
       width: 123
       height: 108
-    spriteID: 1b7aad4895aced74e81e46cf06063b10
+    spriteID: 536ded31519564a44b876d887480be12
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -573,7 +572,7 @@ ScriptedImporter:
       y: 608
       width: 79
       height: 80
-    spriteID: 794f26a894db65d4aaa1963ababdb58b
+    spriteID: f497a162005ab2f4da822d196dfb7e1c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -593,7 +592,7 @@ ScriptedImporter:
       y: 328
       width: 86
       height: 84
-    spriteID: 614c2372f6ebdfd43ac69828a9106e53
+    spriteID: 9cb45987a75c1a74dabe31c3bfcb372c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -613,7 +612,7 @@ ScriptedImporter:
       y: 441
       width: 89
       height: 88
-    spriteID: f04fc8feaaa21d244927d6676159659a
+    spriteID: c53e1491b6bb70a4dac7d7435a80df90
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -633,7 +632,7 @@ ScriptedImporter:
       y: 701
       width: 116
       height: 113
-    spriteID: 4a251ac4fded4954eb2eecb913aa19ce
+    spriteID: 94dda890f3be16a48842c250e35f4ebe
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -653,7 +652,7 @@ ScriptedImporter:
       y: 460
       width: 119
       height: 117
-    spriteID: 4003ca1859c7d0c4086b8f04ff6e98dc
+    spriteID: 83e1f52c414a860439989776cf688dfc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -673,7 +672,7 @@ ScriptedImporter:
       y: 4
       width: 102
       height: 100
-    spriteID: 861b10cdcf6a0e94480cc0bc36e61a16
+    spriteID: 2c15ccd3ea060b444b22c2260748cc41
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -693,7 +692,7 @@ ScriptedImporter:
       y: 525
       width: 91
       height: 75
-    spriteID: 94a57e866e6f9ad4bbdcd3322dbff059
+    spriteID: fc0afe0b8f362764a96e054b9996355f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -713,7 +712,7 @@ ScriptedImporter:
       y: 923
       width: 94
       height: 91
-    spriteID: 588fea10c5046634b91b6284ed3adfc9
+    spriteID: 673712c88fe4e36489e92d271718c972
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -733,7 +732,7 @@ ScriptedImporter:
       y: 339
       width: 91
       height: 94
-    spriteID: d544d22186e41ca48ac1a4d3475eed16
+    spriteID: 67fd28be1f9760140bda472431f4b51b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -753,7 +752,7 @@ ScriptedImporter:
       y: 4
       width: 140
       height: 106
-    spriteID: dab4d87af6018e948b45c268bdeed61a
+    spriteID: 3f10a282c5cb5074898a665d25803fb8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -773,7 +772,7 @@ ScriptedImporter:
       y: 347
       width: 137
       height: 105
-    spriteID: 6c581435a3c07734787daaf239142430
+    spriteID: ca6152c2f7c15f34a994db3b6afc6ec0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -793,7 +792,7 @@ ScriptedImporter:
       y: 822
       width: 116
       height: 93
-    spriteID: 833807e94a6e95048946529c727eca47
+    spriteID: 9e0688b428f42794cac97f6512612000
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -805,318 +804,284 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -547746665
+    guid: 1587906091
     name: Torch_Blue
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Torch_Blue_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 56
         y: 59
         width: 71
         height: 97
-      spriteId: a0b8f02600f8d34479dbded0817cba8f
-    - name: Frame_1
+      spriteId: 80e40816d9d4a214e94b2504fd64522a
+    - name: Torch_Blue_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 48
         y: 59
         width: 77
         height: 97
-      spriteId: 04bba7cdfc0bb2141b4c2f2cf43d2409
-    - name: Frame_2
+      spriteId: be3f9db6339638440bd0c838da8b7548
+    - name: Torch_Blue_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 69
         y: 59
         width: 75
         height: 98
-      spriteId: 5d6ddc30ec5f08249b991c277c76cac4
-    - name: Frame_3
+      spriteId: fd5100221f5722b458693f9ed54d692a
+    - name: Torch_Blue_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 53
         y: 59
         width: 74
         height: 79
-      spriteId: 3cb6aa41304ff6d4eb13c9a453763ebe
-    - name: Frame_4
+      spriteId: 44eb22d802d0c8c4c92cafa91a954745
+    - name: Torch_Blue_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 51
         y: 59
         width: 75
         height: 82
-      spriteId: fbf7fc439292ae1479bd17712fbf9385
-    - name: Frame_5
+      spriteId: 3a13370b60a30a6419bcb3c7701adc13
+    - name: Torch_Blue_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 52
         y: 59
         width: 74
         height: 83
-      spriteId: 158d5e7a43c8da541a1dcc93854f6242
-    - name: Frame_6
+      spriteId: 65d92c4710a23674dafc317e45b05b67
+    - name: Torch_Blue_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 54
         y: 59
         width: 72
         height: 84
-      spriteId: 4c172df16f2aea847b519f9316717959
-    - name: Frame_7
+      spriteId: 59ddcee2258f0ed468d891fa14cfcbea
+    - name: Torch_Blue_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 55
         y: 59
         width: 71
         height: 86
-      spriteId: 89754f4f0cd3f4e47907c0fd2362b137
-    - name: Frame_8
+      spriteId: 926a85aa23f339b4fabd5df2951e7657
+    - name: Torch_Blue_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: 55
         y: 59
         width: 71
         height: 88
-      spriteId: 7d53c323fea1a5c48a5eee1a44d5056e
-    - name: Frame_9
+      spriteId: de491cd8d3961b5489166b21a2ec979c
+    - name: Torch_Blue_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: 56
         y: 59
         width: 71
         height: 89
-      spriteId: a0ef8ce911e4ae44483df51a6ffa1827
-    - name: Frame_10
+      spriteId: d0b8f5e1c8b96624a95a55823641cbd9
+    - name: Torch_Blue_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: 19
         y: 59
         width: 108
         height: 73
-      spriteId: f6c55927424de8047b44c6cb565a672c
-    - name: Frame_11
+      spriteId: 2d65361627b829c4391e87389d986e5f
+    - name: Torch_Blue_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: 28
         y: 59
         width: 99
         height: 76
-      spriteId: 6b2f8309ccb5a1a43ab1a36b31ae0917
-    - name: Frame_12
+      spriteId: 76d40debac0aaeb42a5847dfc3193701
+    - name: Torch_Blue_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: 20
         y: 59
         width: 105
         height: 73
-      spriteId: 30c9f277c602ad449bbb6703d0eb8d55
-    - name: Frame_13
+      spriteId: 2211346ec021a314b9e917c0a9cca285
+    - name: Torch_Blue_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: 19
         y: 59
         width: 111
         height: 73
-      spriteId: 49c55097ff336604daad1f9568f07103
-    - name: Frame_14
+      spriteId: 92529baad359dc945bc434304f1ea281
+    - name: Torch_Blue_Frame_14
       frameIndex: 14
-      additiveSortOrder: 0
       cellRect:
         x: 28
         y: 59
         width: 100
         height: 76
-      spriteId: 117f01577c942d648b7ea4172c2092e9
-    - name: Frame_15
+      spriteId: 87381ea3d4f6a364586281b21c87eade
+    - name: Torch_Blue_Frame_15
       frameIndex: 15
-      additiveSortOrder: 0
       cellRect:
         x: 20
         y: 59
         width: 105
         height: 73
-      spriteId: 4b02baa96fbe511489b1df6bd5a03a3b
-    - name: Frame_16
+      spriteId: b37f342fd474aaa40a03fac691664791
+    - name: Torch_Blue_Frame_16
       frameIndex: 16
-      additiveSortOrder: 0
       cellRect:
         x: 44
         y: 59
         width: 80
         height: 96
-      spriteId: 27a627fe90cc4134288ff8c71844f3fe
-    - name: Frame_17
+      spriteId: d7b578a4ffa8c6647be7fb3eaec3caec
+    - name: Torch_Blue_Frame_17
       frameIndex: 17
-      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 59
         width: 86
         height: 102
-      spriteId: 4a6764bbfb1ec9b44952b535ef579288
-    - name: Frame_18
+      spriteId: 5472790a1fcc6ef4793bb87ec19872b4
+    - name: Torch_Blue_Frame_18
       frameIndex: 18
-      additiveSortOrder: 0
       cellRect:
         x: 35
         y: 59
         width: 90
         height: 109
-      spriteId: 0505cdb7920eb284997a8d38076ca896
-    - name: Frame_19
+      spriteId: 15da18e6a093c4b489e0cd10658f82a1
+    - name: Torch_Blue_Frame_19
       frameIndex: 19
-      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 58
         width: 137
         height: 106
-      spriteId: 93a0fee29d911e749ac5459471c18edf
-    - name: Frame_20
+      spriteId: e74d835bb17e05a4a83e7a23a5ac7584
+    - name: Torch_Blue_Frame_20
       frameIndex: 20
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 57
         width: 135
         height: 107
-      spriteId: 55e51a64a2f0671459f748cf83ed8196
-    - name: Frame_21
+      spriteId: 7c0135258e6937748bb57693df4890eb
+    - name: Torch_Blue_Frame_21
       frameIndex: 21
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 59
         width: 123
         height: 108
-      spriteId: 1b7aad4895aced74e81e46cf06063b10
-    - name: Frame_22
+      spriteId: 536ded31519564a44b876d887480be12
+    - name: Torch_Blue_Frame_22
       frameIndex: 22
-      additiveSortOrder: 0
       cellRect:
         x: 47
         y: 59
         width: 79
         height: 80
-      spriteId: 794f26a894db65d4aaa1963ababdb58b
-    - name: Frame_23
+      spriteId: f497a162005ab2f4da822d196dfb7e1c
+    - name: Torch_Blue_Frame_23
       frameIndex: 23
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 59
         width: 86
         height: 84
-      spriteId: 614c2372f6ebdfd43ac69828a9106e53
-    - name: Frame_24
+      spriteId: 9cb45987a75c1a74dabe31c3bfcb372c
+    - name: Torch_Blue_Frame_24
       frameIndex: 24
-      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 59
         width: 89
         height: 88
-      spriteId: f04fc8feaaa21d244927d6676159659a
-    - name: Frame_25
+      spriteId: c53e1491b6bb70a4dac7d7435a80df90
+    - name: Torch_Blue_Frame_25
       frameIndex: 25
-      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 29
         width: 116
         height: 113
-      spriteId: 4a251ac4fded4954eb2eecb913aa19ce
-    - name: Frame_26
+      spriteId: 94dda890f3be16a48842c250e35f4ebe
+    - name: Torch_Blue_Frame_26
       frameIndex: 26
-      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 23
         width: 119
         height: 117
-      spriteId: 4003ca1859c7d0c4086b8f04ff6e98dc
-    - name: Frame_27
+      spriteId: 83e1f52c414a860439989776cf688dfc
+    - name: Torch_Blue_Frame_27
       frameIndex: 27
-      additiveSortOrder: 0
       cellRect:
         x: 56
         y: 27
         width: 102
         height: 100
-      spriteId: 861b10cdcf6a0e94480cc0bc36e61a16
-    - name: Frame_28
+      spriteId: 2c15ccd3ea060b444b22c2260748cc41
+    - name: Torch_Blue_Frame_28
       frameIndex: 28
-      additiveSortOrder: 0
       cellRect:
         x: 68
         y: 59
         width: 91
         height: 75
-      spriteId: 94a57e866e6f9ad4bbdcd3322dbff059
-    - name: Frame_29
+      spriteId: fc0afe0b8f362764a96e054b9996355f
+    - name: Torch_Blue_Frame_29
       frameIndex: 29
-      additiveSortOrder: 0
       cellRect:
         x: 65
         y: 44
         width: 94
         height: 91
-      spriteId: 588fea10c5046634b91b6284ed3adfc9
-    - name: Frame_30
+      spriteId: 673712c88fe4e36489e92d271718c972
+    - name: Torch_Blue_Frame_30
       frameIndex: 30
-      additiveSortOrder: 0
       cellRect:
         x: 65
         y: 41
         width: 91
         height: 94
-      spriteId: d544d22186e41ca48ac1a4d3475eed16
-    - name: Frame_31
+      spriteId: 67fd28be1f9760140bda472431f4b51b
+    - name: Torch_Blue_Frame_31
       frameIndex: 31
-      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 47
         width: 140
         height: 106
-      spriteId: dab4d87af6018e948b45c268bdeed61a
-    - name: Frame_32
+      spriteId: 3f10a282c5cb5074898a665d25803fb8
+    - name: Torch_Blue_Frame_32
       frameIndex: 32
-      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 51
         width: 137
         height: 105
-      spriteId: 6c581435a3c07734787daaf239142430
-    - name: Frame_33
+      spriteId: ca6152c2f7c15f34a994db3b6afc6ec0
+    - name: Torch_Blue_Frame_33
       frameIndex: 33
-      additiveSortOrder: 0
       cellRect:
         x: 15
         y: 59
         width: 116
         height: 93
-      spriteId: 833807e94a6e95048946529c727eca47
+      spriteId: 9e0688b428f42794cac97f6512612000
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -1184,4 +1149,3 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 192, y: 192}
-  previousTextureSize: {x: 512, y: 1024}

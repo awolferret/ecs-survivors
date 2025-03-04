@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -133,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 111
       height: 174
-    spriteID: 0917afbcd4a8b4a4b9696c324aacf638
+    spriteID: a2dbe8387c28c904fa614861837e1292
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,7 +152,7 @@ ScriptedImporter:
       y: 186
       width: 111
       height: 174
-    spriteID: 6c3275817e4fb6f439f8b570499a2db5
+    spriteID: 32f66488ba89dcd43982b08ebdcd0e5a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -173,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 110
       height: 174
-    spriteID: c1833b0b34702c749bcbc44ea9dff213
+    spriteID: aca1f421bc665ea4eb1ce8733fce018e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -193,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 111
       height: 174
-    spriteID: d00aeb71eb373c14f8a58268a06b27d2
+    spriteID: 181ffcafd3409134b801e72f661246f3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -213,7 +212,7 @@ ScriptedImporter:
       y: 186
       width: 111
       height: 174
-    spriteID: 0127711a1a412544ba7e78ac8e966a92
+    spriteID: 4880f28078d999b42a4288c081f648f7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -233,7 +232,7 @@ ScriptedImporter:
       y: 4
       width: 106
       height: 173
-    spriteID: 5a4f1f91404b9124bb0f5dd432d7b218
+    spriteID: c0968dc4e2172ba42ba114b79d05ce67
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -253,7 +252,7 @@ ScriptedImporter:
       y: 186
       width: 109
       height: 171
-    spriteID: 8702d7f89b4d0d442a722247b96a9b28
+    spriteID: 4294db04b790c164e94c460accfdc60b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -273,7 +272,7 @@ ScriptedImporter:
       y: 368
       width: 36
       height: 30
-    spriteID: d8b764db274681a4fb2d9596d1b51dd2
+    spriteID: eaacf760e1a97ff4aad672bd4f5254b5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -285,84 +284,76 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -633918947
+    guid: 1737248505
     name: Tree_Raw
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Tree_Raw_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 14
         width: 111
         height: 174
-      spriteId: 0917afbcd4a8b4a4b9696c324aacf638
-    - name: Frame_1
+      spriteId: a2dbe8387c28c904fa614861837e1292
+    - name: Tree_Raw_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 14
         width: 111
         height: 174
-      spriteId: 6c3275817e4fb6f439f8b570499a2db5
-    - name: Frame_2
+      spriteId: 32f66488ba89dcd43982b08ebdcd0e5a
+    - name: Tree_Raw_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 44
         y: 14
         width: 110
         height: 174
-      spriteId: c1833b0b34702c749bcbc44ea9dff213
-    - name: Frame_3
+      spriteId: aca1f421bc665ea4eb1ce8733fce018e
+    - name: Tree_Raw_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 14
         width: 111
         height: 174
-      spriteId: d00aeb71eb373c14f8a58268a06b27d2
-    - name: Frame_4
+      spriteId: 181ffcafd3409134b801e72f661246f3
+    - name: Tree_Raw_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 14
         width: 111
         height: 174
-      spriteId: 0127711a1a412544ba7e78ac8e966a92
-    - name: Frame_5
+      spriteId: 4880f28078d999b42a4288c081f648f7
+    - name: Tree_Raw_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 14
         width: 106
         height: 173
-      spriteId: 5a4f1f91404b9124bb0f5dd432d7b218
-    - name: Frame_6
+      spriteId: c0968dc4e2172ba42ba114b79d05ce67
+    - name: Tree_Raw_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 14
         width: 109
         height: 171
-      spriteId: 8702d7f89b4d0d442a722247b96a9b28
-    - name: Frame_7
+      spriteId: 4294db04b790c164e94c460accfdc60b
+    - name: Tree_Raw_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 79
         y: 16
         width: 36
         height: 30
-      spriteId: d8b764db274681a4fb2d9596d1b51dd2
+      spriteId: eaacf760e1a97ff4aad672bd4f5254b5
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -430,4 +421,3 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 192, y: 192}
-  previousTextureSize: {x: 512, y: 512}

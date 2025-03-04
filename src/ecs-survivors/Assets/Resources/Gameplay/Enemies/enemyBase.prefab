@@ -9,10 +9,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1835253824857810547}
-  - component: {fileID: 848373032483130563}
-  - component: {fileID: 1643205620832147655}
-  - component: {fileID: 8844608326566308033}
-  - component: {fileID: 2529429512912019689}
+  - component: {fileID: 4854727796401551966}
+  - component: {fileID: 7124015648039537309}
+  - component: {fileID: 2150469713574712717}
+  - component: {fileID: 1648663482039140480}
+  - component: {fileID: 6782074681628427955}
   m_Layer: 0
   m_Name: enemyBase
   m_TagString: Untagged
@@ -37,7 +38,7 @@ Transform:
   - {fileID: 7367176771142617007}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &848373032483130563
+--- !u!114 &4854727796401551966
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -46,10 +47,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1439855031686531578}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 511653e70f1b4434a642cfce8b90ee4e, type: 3}
+  m_Script: {fileID: 11500000, guid: 451235895888400f8aae4f0469ce9900, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1643205620832147655
+  EntityView: {fileID: 7124015648039537309}
+  Speed: 1
+--- !u!114 &7124015648039537309
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -58,12 +61,24 @@ MonoBehaviour:
   m_GameObject: {fileID: 1439855031686531578}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d9f8c0a3ffa4ffab7f8573459b8ef1c, type: 3}
+  m_Script: {fileID: 11500000, guid: 6817c6a5c95e4a6882289fbbf4a18905, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EntityView: {fileID: 848373032483130563}
+--- !u!114 &2150469713574712717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1439855031686531578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d8ea4b42014486ab526116fb0dfc4e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EntityView: {fileID: 7124015648039537309}
   SpriteRenderer: {fileID: 0}
---- !u!114 &8844608326566308033
+--- !u!114 &1648663482039140480
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -72,11 +87,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1439855031686531578}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a05134c594a6494d9f8c83798b4783ab, type: 3}
+  m_Script: {fileID: 11500000, guid: 477e19a353bf4b85a867b8a120c4542c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EntityView: {fileID: 848373032483130563}
---- !u!114 &2529429512912019689
+  EntityView: {fileID: 7124015648039537309}
+--- !u!114 &6782074681628427955
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -85,10 +100,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1439855031686531578}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 969d28d9d3b148a7b37dec3d672334b6, type: 3}
+  m_Script: {fileID: 11500000, guid: 08f236e6f71a42c881362af1217f0a89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EntityView: {fileID: 848373032483130563}
+  EntityView: {fileID: 7124015648039537309}
   EnemyAnimator: {fileID: 3082643152100645119}
 --- !u!1 &3126144766799759099
 GameObject:
