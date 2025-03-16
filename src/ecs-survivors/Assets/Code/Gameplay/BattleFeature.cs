@@ -2,6 +2,7 @@
 using Code.Gameplay.Features.DamageApplication;
 using Code.Gameplay.Features.Enemy;
 using Code.Gameplay.Features.Hero;
+using Code.Gameplay.Features.LifeTime.Systems;
 using Code.Gameplay.Features.Movement;
 using Code.Gameplay.Features.TargetCollection;
 using Code.Gameplay.Input;
@@ -18,6 +19,7 @@ namespace Code.Gameplay
             Add(systems.Create<HeroFeature>());
             Add(systems.Create<EnemyFeature>());
             Add(systems.Create<MovementFeature>());
+            Add(systems.Create<DeathFeature>());
             Add(systems.Create<CollectTargetsFeature>());
             Add(systems.Create<DamageApplicationFeature>());
             Add(systems.Create<ProcessDestructedFeature>());
